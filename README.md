@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The Expense Tracker app is a mobile application designed to help users manage their personal finances efficiently. The app allows users to track daily expenses and monitor spending patterns over time.
 
 A few resources to get you started if this is your first Flutter project:
 
