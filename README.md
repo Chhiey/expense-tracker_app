@@ -1,7 +1,5 @@
 # expense_tracker
 
-A new Flutter project.
-
 ## Getting Started
 
 The Expense Tracker app is a mobile application designed to help users manage their personal finances efficiently. The app allows users to track daily expenses and monitor spending patterns over time.
